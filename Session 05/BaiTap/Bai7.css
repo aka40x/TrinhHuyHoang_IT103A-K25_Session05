@@ -1,0 +1,56 @@
+body {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+        }
+        .banner-section {
+            background-color: #e6f7ff;
+            padding: 30px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+        .banner-section h2 {
+            color: #1e90ff;
+            margin-top: 0;
+            margin-bottom: 10px;
+            font-size: 24px;
+        }
+        .banner-section p {
+            color: #1e90ff;
+            font-style: italic;
+            font-size: 14px;
+            margin-bottom: 20px;
+        }
+        .banner-section img {
+            max-width: 100%;
+            height: auto;
+            width: 400px;
+            border-radius: 5px;
+            display: block;
+            margin: 0 auto;
+        }
+
+        .address-section h3 {
+            color: #1e90ff;
+            margin-bottom: 15px;
+            font-size: 20px;
+        }
+        .address-list p {
+            margin: 10px 0;
+            color: black;
+            font-size: 15px;
+        }
+
+        .co-so-1 {
+            color: red !important;
+        }
+        .co-so-2 {
+            font-style: italic;
+        }
+        .co-so-3 {
+            text-decoration: underline;
+        }
+        .co-so-4 {
+            font-weight: bold;
+        }
